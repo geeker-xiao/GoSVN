@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+<logentry
+   revision="42">
+<author>bob</author>
+<date>2024-05-02T10:00:00.000000Z</date>
+<paths>
+<path
+   prop-mods="false"
+   text-mods="true"
+   kind="file"
+   action="M">/trunk/src/main.go</path>
+<path
+   prop-mods="false"
+   text-mods="false"
+   kind="file"
+   action="A">/trunk/src/new_file.go</path>
+<path
+   prop-mods="false"
+   text-mods="false"
+   kind="file"
+   action="D">/trunk/docs/old.txt</path>
+</paths>
+<msg>Implement feature X
+
+Multi-line message with details.</msg>
+</logentry>
+<logentry
+   revision="41">
+<author>alice</author>
+<date>2024-05-01T08:30:00.000000Z</date>
+<msg>Initial commit</msg>
+</logentry>
+</log>

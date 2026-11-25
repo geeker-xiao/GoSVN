@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<status>
+<target
+   path="C:/work/repo">
+<entry
+   path="src/main.go">
+<wc-status
+   props="none"
+   item="modified"
+   revision="42">
+<commit
+   revision="41">
+<author>alice</author>
+<date>2024-05-01T08:30:00.000000Z</date>
+</commit>
+</wc-status>
+</entry>
+<entry
+   path="src/new_file.go">
+<wc-status
+   props="none"
+   item="added"
+   revision="42">
+<commit
+   revision="41">
+<author>alice</author>
+<date>2024-05-01T08:30:00.000000Z</date>
+</commit>
+</wc-status>
+</entry>
+<entry
+   path="docs/old.txt">
+<wc-status
+   props="none"
+   item="deleted"
+   revision="42"/>
+</entry>
+<entry
+   path="untracked.go">
+<wc-status
+   props="none"
+   item="unversioned"/>
+</entry>
+<entry
+   path="src/missing.go">
+<wc-status
+   props="none"
+   item="missing"
+   revision="42"/>
+</entry>
+<entry
+   path="src/conflict.go">
+<wc-status
+   props="none"
+   item="conflicted"
+   revision="42"/>
+</entry>
+<entry
+   path="src/中文文件.go">
+<wc-status
+   props="modified"
+   item="modified"
+   revision="42"/>
+</entry>
+</target>
+</status>

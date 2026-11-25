@@ -1,0 +1,30 @@
+# Build artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+/gosvn
+/gosvn.exe
+
+# Test binaries
+*.test
+*.out
+
+# Build output
+/dist/
+/build/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Go workspace (local-only)
+go.work
+go.work.sum
