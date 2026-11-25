@@ -41,6 +41,9 @@ Commands:
   update      open the update window for path
   log         open the log window for path
   diff        open the diff window for path
+  checkout    open the checkout dialog (check out a remote repository)
+  create-repo open the create-local-repository dialog
+  remote      open the remote repository browser
   settings    open the preferences window
   install     register right-click integration (Explorer / Nautilus)
   uninstall   remove right-click integration
